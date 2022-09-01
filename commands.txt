@@ -1,0 +1,1 @@
+To create a new branch use this command: git checkout -b 'name' 
